@@ -1,0 +1,25 @@
+INDEX VERSION 1.131+/home/leonardoluisdomingos/Documentos/pessoal/CursoJava/EstudandoJava/java_jpa_persista_seus_dados_com_jpa2_e_hibernate/.metadata/.plugins/org.eclipse.jdt.core
+182520871.index
+4241396877.index
+405343440.index
+859976831.index
+2828773934.index
+584464885.index
+2199928214.index
+2362632069.index
+646308851.index
+2028455977.index
+2265927313.index
+863647201.index
+1237586672.index
+3154782206.index
+3090227261.index
+34002109.index
+998193570.index
+728992929.index
+3216569894.index
+570342963.index
+715559542.index
+2014632371.index
+2412948114.index
+451237481.index
